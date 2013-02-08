@@ -1,0 +1,7 @@
+sasl.auth
+scripts/autorun
+scripts/bitlbee_blist.pl
+scripts/bitlbee_join_notice.pl
+scripts/bitlbee_nick_change.pl
+scripts/bitlbee_typing_notice.pl
+saved_colors
