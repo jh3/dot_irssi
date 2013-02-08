@@ -1,3 +1,4 @@
+config
 sasl.auth
 scripts/autorun
 scripts/bitlbee_blist.pl
